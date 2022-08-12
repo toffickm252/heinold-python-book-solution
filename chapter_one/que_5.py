@@ -1,4 +1,10 @@
-a=512-282
-b=int(47.48+5)
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Aug 12 07:39:33 2022
 
-print(a/b)
+@author: TOFFICK
+"""
+
+number=int(input("enter the number "))
+
+print("The square of "+str(number)+" is "+str(number*number))
